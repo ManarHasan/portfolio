@@ -1,7 +1,5 @@
----
-layout: default
-title: Manar Hasan – Backend Developer Portfolio
----
+Refer to pages for a more comprehensive overview:
+- Pages: [@manarhasan](https://manarhasan.github.io/portfolio-pages/)
 
 # 👨‍💻 Manar Hasan – Backend Developer Portfolio
 
@@ -37,6 +35,7 @@ Contributed to a modular backend system supporting gamification mechanics, CMS f
 > This custom NestJS scheduler uses `dayjs.tz` for timezone-aware triggers. It handles retries, in-progress states, failure recovery, and emits events that are expected to update their own `runAt` timestamps.
 
 Refer to pages profile for a code snippet.
+- Pages: [@manarhasan](https://manarhasan.github.io/portfolio-pages/)
 
 ---
 
